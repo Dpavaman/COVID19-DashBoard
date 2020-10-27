@@ -1,6 +1,6 @@
 ### COVID19 Dashboard
 
-####  `Powered By  **https://covid19.mathdro.id/api**  API  `
+####  `Powered By  https://covid19.mathdro.id/api  API  `
 
 1. This app uses different npm packages such as **react-chartjs-2** and **react-countup** to add effects to the dashboard
 2. Current status of COVID19 cases throughout the world is fetched from the API above said.
